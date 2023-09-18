@@ -1,0 +1,27 @@
+html {
+  background-color: darkgrey;
+}
+body {
+  background-color: darkgray;
+  border: solid;
+  border-radius: 5px;
+  width: 800px;
+  margin: 25px auto;
+  padding: 25px;
+}
+h1,
+h2 {
+  color: rgb(163, 84, 111);
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  color: darkslategray;
+}
+a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
+a {
+  text-decoration: none;
+}
